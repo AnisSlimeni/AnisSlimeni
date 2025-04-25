@@ -1,35 +1,35 @@
-### Hi there, I'm Slimeni Anis 👋
+# Hi, I'm Anis 👋
 
-I'm a **Software Engineer** with over 2 years of professional experience. I specialize in **Full Stack Development**, particularly with **Vue.js, React.js, React Native, NestJS, nuxt.js and Hono.js**. I love building efficient, user-friendly, and impactful digital products.
+As a software engineer with over a year of professional experience, I am passionate about using technology to solve complex problems and create innovative solutions. With hands-on experience in various programming languages and a strong foundation in software development principles, I am committed to contributing my skills and knowledge to a dynamic and growing organization.
+
+Over the past year, I have applied my theoretical understanding to real-world projects, deepening my expertise in the industry and solidifying my role within it. I am excited to continue taking on new challenges and making a meaningful impact in the tech industry.
+
+## 🚀 Technologies I Work With
+
+- **Frontend:** React.js, Vue.js, Nuxt.js, React Native  
+- **Backend:** Node.js, NestJS, Laravel, Spring Boot  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Tools & Platforms:** Docker, GitLab CI/CD, Firebase, Nginx, GitHub Actions  
+- **Other:** REST APIs, WebSockets, Linux, Figma
+
+## 🛠 Projects
+
+- **Swapii** – A social clothing exchange platform using Swapes Coin  
+- **SpendIQ** – AI-powered financial analyzer using Gemini API and MongoDB  
+- **ai-chat-app** – A React + Worker AI + Twilio voice chatbot system  
+- **ai-cli** – A command-line tool powered by OpenAI and ElevenLabs to generate and vocalize responses with a single prompt
+
+## 🌍 Languages
+
+- Arabic: Native  
+- English: Professional  
+- French: Intermediate (working on improving it)
+
+## 📫 Let's Connect
+
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/anis-slimeni/)  
+- 📧 Email: anisslimani96@icloud.com
 
 ---
 
-#### 🌐 Tech Stack
-**Frontend:** Vue.js, React.js, React Native, Next.js, Nuxt.js, TailwindCSS  
-**Backend:** NestJS, Express, Laravel, Node.js, Hono.js  
-**Mobile:** React Native  
-**Databases:** MongoDB, MySQL, PostgreSQL, Firebase  
-**Tools & DevOps:** Docker, GitLab CI/CD, Nginx, Cloudflare, Codespaces, Gitpod  
-**Others:** Firebase, Prisma, REST APIs, Google Maps API
-
----
-
-#### 🚀 Projects
-- **SpendIQ** — Budget insight app using Gemini API + MongoDB + Nuxt
-- **Swapii** — Gifting platform with its own coin economy (Swapes)
-- **AI Chat App** — Chat with LLMs via Worker AI, deployed on Cloudflare
-
----
-
-#### 📗 Education
-**Software Engineering & BI** @ International Institute of Technology (IIT)
-**Computer Science License** @ ISSAT Sousse
-
----
-
-#### 🌟 Let's Connect!
-Feel free to check out my projects or get in touch:
-- 💼 [LinkedIn](https://www.linkedin.com/in/slimeni-anis)
-- 🧑‍💻 [My Portfolio](#)
-- ✉️ Email: anisslimani96@icloud.com
-
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
