@@ -1,4 +1,4 @@
-### Hi there, I'm Slimeni Anis 👋icl
+### Hi there, I'm Slimeni Anis 👋
 
 I'm a **Software Engineer** with over 2 years of professional experience. I specialize in **Full Stack Development**, particularly with **Vue.js, React.js, React Native, NestJS, nuxt.js and Hono.js**. I love building efficient, user-friendly, and impactful digital products.
 
