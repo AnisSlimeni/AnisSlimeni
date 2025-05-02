@@ -12,19 +12,6 @@ Over the past two years, I have applied my theoretical understanding to real-wor
 - **Tools & Platforms:** Docker, GitLab CI/CD, Firebase, Nginx, GitHub Actions  
 - **Other:** REST APIs, WebSockets, Linux, Figma
 
-## 🛠 Projects
-
-- **Swapii** – A social clothing exchange platform using Swapes Coin  
-- **SpendIQ** – AI-powered financial analyzer using Gemini API and MongoDB  
-- **ai-chat-app** – A React + Worker AI + Twilio voice chatbot system  
-- **ai-cli** – A command-line tool powered by OpenAI and ElevenLabs to generate and vocalize responses with a single prompt
-
-## 🌍 Languages
-
-- Arabic: Native  
-- English: Professional  
-- French: Intermediate (working on improving it)
-
 ## 📫 Let's Connect
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/anis-slimeni/)  
